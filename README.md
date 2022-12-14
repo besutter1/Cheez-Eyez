@@ -1,14 +1,20 @@
-### Cheez-Eyes
-## Top-Secret Project to explore national cheeses
+# Cheez-Eyes
+---
 
-# What is the goal of this project ?
+## A Top-Secret Project to Explore National Cheeses
+
+### What is the goal of this project ?
 
 
-# How did we proceed ?
+### How did we proceed ?
 
 
-# For usage of our code: How to Run the Project
+### For usage of our code: How to Run the Project
 
 Order of Notebooks and its Content: 
 
-1 | metadata.ipynb | 
+| Order   |      Notebook      |  Content/Goal |
+|----------|:-------------:|------:|
+| 1 |  metadata.ipynb | exploration of metadata nad generation of various visualizations |
+| 2 |    denoising.ipynb   |    |
+| 3 | taxonomy.ipynp |    classifying |

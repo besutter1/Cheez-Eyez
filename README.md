@@ -18,4 +18,4 @@ Order of Notebooks and its Content:
 | 1 |  metadata.ipynb | exploration of metadata nad generation of various visualizations |
 | 2 |    denoising.ipynb   |    |
 | 3 | taxonomy.ipynp |    classifying |
-
+| 4 | Interactive Map.ipynp |    geographic skew |

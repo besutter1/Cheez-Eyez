@@ -1,4 +1,4 @@
-# Cheez-Eyes
+# Cheez-Eyez
 ---
 
 ## A Top-Secret Project to Explore (some) National Cheeses
@@ -19,7 +19,7 @@ We do hope everything is understandable and if not please contact one of the con
 Have fun exploring !
 
 Yours truly,
-The secret cheese-/ bioinformatics lovers group
+The secret cheese and bioinformatics lovers 
 
 **Order of Notebooks and its Content: **
 

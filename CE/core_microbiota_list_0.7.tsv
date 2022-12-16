@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html class="ng-csp" data-placeholder-focus="false" lang="en" >
+	<head data-requesttoken="PgEsIVs0CzUWLURdLxgwNBZMHiYdWmpvER46OhgiJAQ=:ibAbkRyFLd72vHwLUtyEh+8ZUUBKlmLrw9KCFvP3FHA=">
+		<meta charset="utf-8">
+		<title>
+		polybox		</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="referrer" content="never">
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+		<meta name="theme-color" content="#745bca">
+		<link rel="icon" href="/apps/theme-polybox/core/img/favicon.ico">
+		<link rel="apple-touch-icon-precomposed" href="/apps/theme-polybox/core/img/favicon-touch.png">
+		<link rel="mask-icon" sizes="any" href="/core/img/favicon-mask.svg" color="#041e42">
+					<link rel="stylesheet" href="/core/vendor/select2/select2.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/styles.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/inputs.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/header.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/icons.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/fonts.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/apps.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/global.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/fixes.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/multiselect.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/mobile.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/vendor/jquery-ui/themes/base/jquery-ui.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/jquery-ui-fixes.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/tooltip.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/share.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_versions/css/versions.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_pdfviewer/css/style.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_texteditor/css/DroidSansMono/stylesheet.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_texteditor/css/style.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_texteditor/css/mobile.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/richdocuments/css/viewer/odfviewer.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/core/css/jquery.ocdialog.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_sharing/css/public.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files_sharing/css/mobile.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files/css/files.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/files/css/upload.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/theme-polybox/core/css/styles.css?v=ac735e8abc37956d7690b3f50e3791b7">
+					<link rel="stylesheet" href="/apps/theme-polybox/core/css/header.css?v=ac735e8abc37956d7690b3f50e3791b7">
+									<script src="/index.php/core/js/oc.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/jquery/dist/jquery.min.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/jquery-migrate/jquery-migrate.min.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/jquery-ui/ui/jquery-ui.custom.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/underscore/underscore.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/moment/min/moment-with-locales.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/handlebars/handlebars.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/blueimp-md5/js/md5.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/bootstrap/js/tooltip.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/backbone/backbone.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/es6-promise/es6-promise.auto.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/davclient.js/lib/client.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/clipboard/dist/clipboard.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/bowser/src/bowser.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/jquery.ocdialog.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/oc-dialogs.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/js.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/l10n.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/octemplate.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/eventsource.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/config.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/search/js/search.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/oc-requesttoken.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/apps.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/mimetype.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/mimetypelist.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/snapjs/dist/latest/snap.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/vendor/select2/select2.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/oc-backbone.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/oc-backbone-webdav.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/guests/js/app.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/shareconfigmodel.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharemodel.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharescollection.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/shareitemmodel.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialogresharerinfoview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialoglinklistview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialoglinkshareview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialogmailview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialoglinksocialview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialoglinkexpirationview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialogshareelistview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/sharedialogview.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/share.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/user.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files_pdfviewer/js/previewplugin.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/federatedfilesharing/js/public.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files_texteditor/js/editor.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files_texteditor/js/vendor/ace/src-noconflict/ace.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/richdocuments/js/viewer/viewer.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/files/fileinfo.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/core/js/files/client.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/file-upload.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files_sharing/js/public.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/fileactions.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/fileactionsmenu.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/jquery.fileupload.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/filesummary.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/breadcrumb.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/fileinfomodel.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/newfilemenu.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/files.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/filelist.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+					<script src="/apps/files/js/keyboardshortcuts.js?v=ac735e8abc37956d7690b3f50e3791b7"></script>
+				<meta property="og:title" content="polybox - &lt;a href=&quot;https://polyboxdoc.ethz.ch/&quot; target=&quot;_blank&quot;&gt;polybox Help&lt;/a&gt;&lt;br&gt;Use it as a logical memory stick&lt;br&gt;Store your data on the ETH campus"/><meta property="og:description" content="core-features-0.700.tsv is publicly shared"/><meta property="og:site_name" content="polybox"/><meta property="og:url" content="https://polybox.ethz.ch/index.php/s/WRm86jdxvkxPOVa"/><meta property="og:type" content="object"/><meta property="og:image" content="https://polybox.ethz.ch/core/img/favicon-fb.png"/>	</head>
+	<body id="body-public" class="theme-polybox has-theme" >
+		<noscript>
+	<div id="nojavascript">
+		<div>
+			This application requires JavaScript for correct operation. Please <a href="http://enable-javascript.com/" target="_blank" rel="noreferrer">enable JavaScript</a> and reload the page.		</div>
+	</div>
+</noscript>
+		
+
+<div id="notification-container">
+	<div id="notification" style="display: none;"></div>
+</div>
+
+<input type="hidden" id="filesApp" name="filesApp" value="1">
+<input type="hidden" id="isPublic" name="isPublic" value="1">
+<input type="hidden" name="dir" value="" id="dir">
+<input type="hidden" name="downloadURL" value="https://polybox.ethz.ch/index.php/s/WRm86jdxvkxPOVa/download" id="downloadURL">
+<input type="hidden" name="sharingToken" value="WRm86jdxvkxPOVa" id="sharingToken">
+<input type="hidden" name="filename" value="core-features-0.700.tsv" id="filename">
+<input type="hidden" name="mimetype" value="application/octet-stream" id="mimetype">
+<input type="hidden" name="previewSupported" value="false" id="previewSupported">
+<input type="hidden" name="previewEnabled" value="true" id="previewEnabled">
+<input type="hidden" name="mimetypeIcon" value="/core/img/filetypes/file.svg" id="mimetypeIcon">
+<input type="hidden" name="filesize" value="490" id="filesize">
+<input type="hidden" name="maxSizeAnimateGif" value="10" id="maxSizeAnimateGif">
+<input type="hidden" name="sharePermission" value="1" id="sharePermission">
+
+<header>
+	<div id="header" class="share-file" data-protected="false"
+		 data-owner-display-name="Laura Hunold (lhunold@student.ethz.ch)" data-owner="lhunold" data-name="core-features-0.700.tsv">
+		<a href="/index.php" title="" id="owncloud-public">
+			<h1 class="logo-icon">
+				polybox.ethz.ch			</h1>
+		</a>
+
+		<div id="logo-claim" style="display:none;"></div>
+				<div class="header-right">
+			<span id="details">
+				<a href="https://polybox.ethz.ch/index.php/s/WRm86jdxvkxPOVa/download" id="download" class="button">
+					<img class="svg" alt="" src="/core/img/actions/download.svg"/>
+					<span id="download-text">Download</span>
+				</a>
+			</span>
+		</div>
+			</div>
+</header>
+<div id="content-wrapper">
+	<div id="content">
+		<div id="preview">
+												<!-- Preview frame is filled via JS to support SVG images for modern browsers -->
+					<div id="imgframe"></div>
+								<div class="directDownload">
+					<a href="https://polybox.ethz.ch/index.php/s/WRm86jdxvkxPOVa/download" id="downloadFile" class="button">
+						<img class="svg" alt="" src="/core/img/actions/download.svg"/>
+						Download core-features-0.700.tsv (490 B)
+					</a>
+				</div>
+				<div class="directLink">
+					<label for="directLink">Direct link</label>
+					<input id="directLink" type="text" readonly value="https://polybox.ethz.ch/index.php/s/WRm86jdxvkxPOVa/download">
+				</div>
+					</div>
+	</div>
+	<footer>
+		<p class="info">
+			<a href="https://www.ethz.ch" target="_blank" rel="noreferrer">ETH Zürich</a> &ndash; <a href="https://polyboxdoc.ethz.ch/" target="_blank">polybox Help</a><br>Use it as a logical memory stick<br>Store your data on the ETH campus		</p>
+	</footer>
+</div>
+	</body>
+</html>

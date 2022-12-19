@@ -10,7 +10,7 @@ As interns at Cheez-Eyez, our goal is to artificially replicate cheese microbiom
 3. With results from these questions will then lead to the final question where factors will be compared to the results of the microbiota. Can there be factors found which influence the microbiota and then on a bigger scale the type of cheese? Or is there more which influences the different taste and type of cheese which cannot be determined with the data given?
 
 ### How did we proceed ?
-We followed the contnet of the course and applied the new learnt code on our project. Depending on some of the outcomes we chose different statistical analysis to evaluate our data. 
+We followed the content of the course and applied the new learnt code on our project. Depending on some of the outcomes we chose different statistical or abundance analysis to evaluate our data. 
 
 ### For usage of our code: How to Run the Project
 As we used several branches to work on different topics we merged the branches into main at some point to have one main branch with every notebook needed to follow our doing step by step without having to switch branches. In the main branch we only then added some final touch (notes, some visualizations) to create a better understanding what we did at a certain point. 
@@ -19,7 +19,7 @@ We do hope everything is understandable and if not please contact one of the con
 Have fun exploring !
 
 Yours truly,
-The secret cheese and bioinformatics lovers 
+The secret cheese and bioinformatics lovers.
 
 **Order of Notebooks and its Content: **
 

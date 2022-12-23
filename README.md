@@ -31,10 +31,7 @@ The secret cheese and bioinformatics lovers.
 | 4 | taxonomy.ipynp |    taxonomic classification & phylogeny tree construction |
 | 5 | taxonomy_full_length.ipynp |    usage of full length classifier instead of 515f/806r classifier (both greengenes) |
 | 6 | diversity.ipynb |    diversity analysis (alpha and beta) |
-
-
-
-| 8 | ancom.ipynp |    analysis of the differential abundance in our samples |
-| 9 | metagenomics.ipynp |    analysis of functional pathways |
-| 10 | core_microbiota.ipynp |   Identify "core" features |
-| 7 | Interactive Map.ipynp |    geographic skew |
+| 7 | ancom.ipynp |    analysis of the differential abundance in our samples |
+| 8 | metagenomics.ipynp |    analysis of functional pathways |
+| 9 | core_microbiota.ipynp |   Identify "core" features |
+| 10 | Interactive Map.ipynp |    geographic skew |

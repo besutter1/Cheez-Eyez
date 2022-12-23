@@ -25,13 +25,16 @@ The secret cheese and bioinformatics lovers.
 
 | Order   |      Notebook      |  Content/Goal |
 |----------|:-------------:|------:|
-| 1 |  metadata.ipynb | exploration of metadata nad generation of various visualizations |
-| 2 |    denoising.ipynb   |    |
-| 3 | taxonomy.ipynp |    taxonomic classification & phylogeny tree construction |
-| 4 | taxonomy_full_length.ipynp |    usage of full length classifier instead of 515f/806r classifier (both greengenes) |
-| 5 | Interactive Map.ipynp |    geographic skew |
-| 6 | filedownload.ipynb |   downloading qza file with sequences and tsv file with metadata  |
-| 7 | diversity.ipynb |    diversity analysis (alpha and beta) |
+| 1 | filedownload.ipynb |   downloading qza file with sequences and tsv file with metadata  |
+| 2 |  metadata.ipynb | exploration of metadata nad generation of various visualizations |
+| 3 |    denoising.ipynb   |    |
+| 4 | taxonomy.ipynp |    taxonomic classification & phylogeny tree construction |
+| 5 | taxonomy_full_length.ipynp |    usage of full length classifier instead of 515f/806r classifier (both greengenes) |
+| 6 | diversity.ipynb |    diversity analysis (alpha and beta) |
+
+
+
 | 8 | ancom.ipynp |    analysis of the differential abundance in our samples |
 | 9 | metagenomics.ipynp |    analysis of functional pathways |
 | 10 | core_microbiota.ipynp |   Identify "core" features |
+| 7 | Interactive Map.ipynp |    geographic skew |
